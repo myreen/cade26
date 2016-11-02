@@ -175,6 +175,7 @@ li {
 }
 
 .mobile_version { visibility: visible; color: white; }
+
 .desktop_version { visibility: hidden; color: white; }
 
 @media screen and (min-width: 600px) {
