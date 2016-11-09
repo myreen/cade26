@@ -26,6 +26,7 @@ article {
     display: block;
     margin: auto;
     width: 875px;
+    line-height: 145%;
 }
 
 article .content {
@@ -83,4 +84,14 @@ nav li a:hover:not(.active) {
 
 nav .active {
     background-color: #4CAF50;
+}
+
+h1 {
+  font-size: 20pt;
+  color: black;
+}
+
+h2 {
+  font-size: 15pt;
+  color: #06699c;
 }
