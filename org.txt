@@ -1,54 +1,54 @@
 <h1>CADE-26 Organizers</h1>
 
 <h2>Program Committee Chair</h2>
-  Leonardo de Moura,          Microsoft Research
+  <a href="http://leodemoura.github.io/">Leonardo de Moura</a>,          Microsoft Research
 
 <h2>Workshop, Tutorial, and Competition Chair</h2>
-  Philipp Ruemmer,            Uppsala University
+  <a href="http://www.philipp.ruemmer.org/">Philipp Ruemmer</a>,            Uppsala University
 
 <h2>Conference Chairs</h2>
-  Wolfgang Ahrendt,           Chalmers University of Technology
-  <br>Moa Johansson,              Chalmers University of Technology
+  <a href="http://www.cse.chalmers.se/~ahrendt/">Wolfgang Ahrendt</a>,           Chalmers University of Technology
+  <br><a href="http://www.cse.chalmers.se/~jomoa/">Moa Johansson</a>,              Chalmers University of Technology
 
 <h2>Publicity Chair</h2>
-  Magnus Myreen<sup>*</sup>,              Chalmers University of Technology
-  <br><sup>*</sup> with help from Anneli Andersson, Chalmers University of Technology
+  <a href="http://www.cse.chalmers.se/~myreen/">Magnus Myreen</a><sup>*</sup>,              Chalmers University of Technology
+  <br><sup>*</sup> with help from <a href="https://www.chalmers.se/en/Staff/Pages/anneli-andersson.aspx">Anneli Andersson</a>, Chalmers University of Technology
 
 <h2>Program Committee</h2>
 
-Clark Barrett,                Stanford University
-<br>Christoph Benzmueller,        Freie Universitaet Berlin
-<br>Jasmin Christian Blanchette,  Inria Nancy & LORIA
-<br>Nikolaj Bjorner,              Microsoft Research
-<br>Maria Paola Bonacina,         Universita degli Studi di Verona
-<br>Leonardo de Moura,            Microsoft Research
-<br>Hans de Nivelle,              University of Wroclaw
-<br>Stephanie Delaune,            CNRS, IRISA
-<br>Gilles Dowek,                 Inria & ENS Paris-Saclay
-<br>Amy Felty,                    University of Ottawa
-<br>Silvio Ghilardi,              Universita degli Studi di Milano
-<br>Reiner Haehnle,               Technical University of Darmstadt
-<br>Marijn Heule,                 The University of Texas at Austin
-<br>Moa Johansson,                Chalmers University of Technology
-<br>Dejan Jovanovic,              SRI International
-<br>Deepak Kapur,                 University of New Mexico
-<br>Konstantin Korovin,           The Manchester University
-<br>Laura Kovacs,                 Vienna University of Technology
-<br>Christopher Lynch,            Clarkson University
-<br>Assia Mahboubi,               INRIA
-<br>Aart Middeldorp,              University of Innsbruck
-<br>Dale Miller,                  INRIA and LIX/Ecole Polytechnique
-<br>Albert Oliveras,              Technical University of Catalonia
-<br>Lawrence Paulson,             University of Cambridge
-<br>Ruzica Piskac,                Yale University
-<br>Philipp Ruemmer,              Uppsala University
-<br>Renate Schmidt,               The University of Manchester
-<br>Stephan Schulz,               DHBW Stuttgart
-<br>Roberto Sebastiani,           University of Trento
-<br>Viorica Sofronie-Stokkermans, University Koblenz-Landau
-<br>Geoff Sutcliffe,              University of Miami
-<br>Cesare Tinelli,               The University of Iowa
-<br>Ashish Tiwari,                SRI International
-<br>Andrei Voronkov,              The University of Manchester
-<br>Christoph Weidenbach,         Max Planck Institute for Informatics
-<br>Freek Wiedijk,                Radboud University Nijmegen
+<a href="http://theory.stanford.edu/~barrett/">Clark Barrett</a>,                Stanford University
+<br><a href="https://page.mi.fu-berlin.de/cbenzmueller/">Christoph Benzmueller</a>,        Freie Universitaet Berlin
+<br><a href="https://people.mpi-inf.mpg.de/~jblanche/">Jasmin Christian Blanchette</a>,  Inria Nancy & LORIA
+<br><a href="https://www.microsoft.com/en-us/research/people/nbjorner/">Nikolaj Bjorner</a>,              Microsoft Research
+<br><a href="http://profs.sci.univr.it/~bonacina/">Maria Paola Bonacina</a>,         Universita degli Studi di Verona
+<br><a href="http://leodemoura.github.io/">Leonardo de Moura</a>,            Microsoft Research
+<br><a href="http://www.ii.uni.wroc.pl/~nivelle/">Hans de Nivelle</a>,              University of Wroclaw
+<br><a href="http://www.lsv.ens-cachan.fr/~delaune/">Stephanie Delaune</a>,            CNRS, IRISA
+<br><a href="http://www.lsv.ens-cachan.fr/~dowek/">Gilles Dowek</a>,                 Inria & ENS Paris-Saclay
+<br><a href="http://www.site.uottawa.ca/~afelty/">Amy Felty</a>,                    University of Ottawa
+<br><a href="http://users.mat.unimi.it/users/ghilardi/allegati/research.html">Silvio Ghilardi</a>,              Universita degli Studi di Milano
+<br><a href="https://www.se.tu-darmstadt.de/se/group-members/reiner-haehnle/">Reiner Haehnle</a>,               Technical University of Darmstadt
+<br><a href="http://www.cs.utexas.edu/~marijn/">Marijn Heule</a>,                 The University of Texas at Austin
+<br><a href="http://www.cse.chalmers.se/~jomoa/">Moa Johansson</a>,                Chalmers University of Technology
+<br><a href="http://www.csl.sri.com/users/dejan/">Dejan Jovanovic</a>,              SRI International
+<br><a href="https://www.cs.unm.edu/~kapur/">Deepak Kapur</a>,                 University of New Mexico
+<br><a href="http://www.cs.manchester.ac.uk/about-us/staff/profile/?ea=Konstantin.Korovin&pg=1">Konstantin Korovin</a>,           The Manchester University
+<br><a href="http://www.complang.tuwien.ac.at/lkovacs/">Laura Kovacs</a>,                 Vienna University of Technology
+<br><a href="http://people.clarkson.edu/~clynch/">Christopher Lynch</a>,            Clarkson University
+<br><a href="https://specfun.inria.fr/mahboubi/">Assia Mahboubi</a>,               INRIA
+<br><a href="http://cl-informatik.uibk.ac.at/users/ami/">Aart Middeldorp</a>,              University of Innsbruck
+<br><a href="http://www.lix.polytechnique.fr/Labo/Dale.Miller/">Dale Miller</a>,                  INRIA and LIX/Ecole Polytechnique
+<br><a href="https://www.cs.upc.edu/~oliveras/">Albert Oliveras</a>,              Technical University of Catalonia
+<br><a href="http://www.cl.cam.ac.uk/~lp15/">Lawrence Paulson</a>,             University of Cambridge
+<br><a href="http://www.cs.yale.edu/homes/piskac/">Ruzica Piskac</a>,                Yale University
+<br><a href="http://www.philipp.ruemmer.org/">Philipp Ruemmer</a>,              Uppsala University
+<br><a href="http://www.cs.man.ac.uk/~schmidt/">Renate Schmidt</a>,               The University of Manchester
+<br><a href="http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html">Stephan Schulz</a>,               DHBW Stuttgart
+<br><a href="http://disi.unitn.it/~rseba/">Roberto Sebastiani</a>,           University of Trento
+<br><a href="https://www.uni-koblenz-landau.de/en/campus-koblenz/fb4/ics/RGVSS/team/viorica-sofronie-stokkermans">Viorica Sofronie-Stokkermans</a>, University Koblenz-Landau
+<br><a href="http://www.cs.miami.edu/home/geoff/">Geoff Sutcliffe</a>,              University of Miami
+<br><a href="http://homepage.cs.uiowa.edu/~tinelli/">Cesare Tinelli</a>,               The University of Iowa
+<br><a href="http://www.csl.sri.com/users/tiwari/">Ashish Tiwari</a>,                SRI International
+<br><a href="http://voronkov.com/">Andrei Voronkov</a>,              The University of Manchester
+<br><a href="https://people.mpi-inf.mpg.de/~weidenb/">Christoph Weidenbach</a>,         Max Planck Institute for Informatics
+<br><a href="http://www.cs.ru.nl/F.Wiedijk/">Freek Wiedijk</a>,                Radboud University Nijmegen
