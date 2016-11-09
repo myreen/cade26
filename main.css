@@ -1,5 +1,11 @@
 body {
-    background: white;
+    height: 100vh;
+    background: #06699c; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#06699c, #133369); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#06699c, #133369); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#06699c, #133369); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#06699c, #133369); /* Standard syntax (must be last) */
+    background-attachment: fixed;
     font-family: Sans-serif, Arial, Verdana;
     margin: 0px;
     padding: 0px;
@@ -23,6 +29,7 @@ article {
 }
 
 article .content {
+    background: white;
     border-width: 2px;
     border-style: solid;
     border-color: #333;
@@ -31,6 +38,7 @@ article .content {
 }
 
 footer {
+    background: white;
     display: block;
     margin: auto;
     width: 875px;
