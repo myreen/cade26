@@ -11,10 +11,9 @@ body {
     padding: 0px;
 }
 
-a:link { color: #06699c; }
-a:active { color: #06699c; }
-a:visited { color: black; }
-a:hover { color: blue; }
+article a:link { color: #06699c; }
+article a:visited { color: black; }
+article a:hover { color: blue; }
 
 header img {
   display: block;
