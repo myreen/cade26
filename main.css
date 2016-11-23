@@ -9,6 +9,7 @@ body {
     font-family: Sans-serif, Arial, Verdana;
     margin: 0px;
     padding: 0px;
+    font-size: 12pt;
 }
 
 article a:link { color: #06699c; }
@@ -93,9 +94,17 @@ nav .active {
 h1 {
   font-size: 20pt;
   color: black;
+  padding-top: 3pt;
 }
 
 h2 {
   font-size: 15pt;
   color: #06699c;
+  padding-top: 3pt;
+}
+
+h3 {
+  font-size: 12pt;
+  color: #333333;
+  padding-top: 3pt;
 }
