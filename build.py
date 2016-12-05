@@ -29,7 +29,7 @@ CONTENT-HTML
 
 # a list, where each item is: filename, title, is-item-on-main-nav
 
-pages = [("start","Home",True),
+pages = [("index","Home",True),
          ("org","Organization",True),
          ("venue","Venue &amp; Hotels",True)]
 
