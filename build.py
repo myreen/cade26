@@ -7,7 +7,7 @@ menu_tag = "MENU-HTML"
 content_tag = "CONTENT-HTML"
 
 format = """<!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>TITLE-STRING</title>
 <link rel="stylesheet" href="main.css">
