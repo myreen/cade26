@@ -2,12 +2,12 @@
 
 <p>The following workshops and tutorials will be organised alongside CADE-26:</p>
 <ul>
-<li><a href="workshops.html#arcade">ARCADE: Automated Reasoning: Challenges, Applications, Directions, Exemplary Achievements</a>
-<li><a href="workshops.html#hcvs">HCVS: Horn Clauses for Verification and Synthesis</a>
-<li><a href="workshops.html#pcr">PCR'17: Workshop on Parallel Constraint Reasoning</a>
-<li><a href="workshops.html#thedu">ThEdu'17: Theorem Prover Components for Educational Software</a>
-<li><a href="workshops.html#coprog">Tutorial: Certified Functional (Co)programming with Isabelle/HOL</a>
-<li><a href="workshops.html#vampire">Vampire 2017: The 4th Vampire Workshop</a>
+<li><a href="workshops.html#arcade">ARCADE: Automated Reasoning: Challenges, Applications, Directions, Exemplary Achievements</a></li>
+<li><a href="workshops.html#hcvs">HCVS: Horn Clauses for Verification and Synthesis</a></li>
+<li><a href="workshops.html#pcr">PCR'17: Workshop on Parallel Constraint Reasoning</a></li>
+<li><a href="workshops.html#thedu">ThEdu'17: Theorem Prover Components for Educational Software</a></li>
+<li><a href="workshops.html#coprog">Tutorial: Certified Functional (Co)programming with Isabelle/HOL</a></li>
+<li><a href="workshops.html#vampire">Vampire 2017: The 4th Vampire Workshop</a></li>
 </ul>
 
 
@@ -24,15 +24,15 @@ to encourage:</p>
 
 <ul>
 <li>Challenges: What are the next grand challenges for research on
-automated reasoning?
+automated reasoning?</li>
 <li>Applications: Is automated reasoning applicable in real-world
-(industrial) scenarios.
+(industrial) scenarios.</li>
 <li>Directions: Based on the grand challenges and requirements from
 real-world applications, what are the research directions the community
-should promote?
+should promote?</li>
 <li>Exemplary Achievements: What are the landmark achievements of
 automated reasoning whose influence reached far beyond the CADE
-community itself?
+community itself?</li>
 </ul>
 
 <p>Organisers:
@@ -57,17 +57,17 @@ Horn clause based analysis, verification and synthesis.</p>
 clauses, constraints, and related formalisms in the following areas:</p>
 
 <ul>
-<li>Automated deduction
+<li>Automated deduction</li>
 <li>Analysis and verification of programs in various programming paradigms
 (e.g., imperative, object-oriented, functional, logic, higher-order,
-concurrent)
-<li>Program synthesis
-<li>Program testing
-<li>Program transformation
-<li>Constraint solving
-<li>Type systems
-<li>Case studies and tools
-<li>Challenging problems
+concurrent)</li>
+<li>Program synthesis</li>
+<li>Program testing</li>
+<li>Program transformation</li>
+<li>Constraint solving</li>
+<li>Type systems</li>
+<li>Case studies and tools</li>
+<li>Challenging problems</li>
 </ul>
 
 <p>Proposal by:
@@ -107,13 +107,13 @@ order to further clarify the shape of the new software generation and to
 discuss existing systems. Topics of interest include:</p>
 
 <ul>
-<li>methods of automated deduction applied to checking students' input;
+<li>methods of automated deduction applied to checking students' input;</li>
 <li>methods of automated deduction applied to prove post-conditions for
-particular problem solutions;
+particular problem solutions;</li>
 <li>combinations of deduction and computation enabling systems to propose
-next steps;
-<li>automated provers specific for dynamic geometry systems;
-<li>proof and proving in mathematics education.
+next steps;</li>
+<li>automated provers specific for dynamic geometry systems;</li>
+<li>proof and proving in mathematics education.</li>
 </ul>
 
 <p>Organisers:
@@ -153,12 +153,11 @@ opportunity for interesting discussions between tool developers and
 users. The workshop is going to to shed the light on on problems such as</p>
 
 <ul>
-<li>what is essential for substantial progress in theorem proving tools;
-<li>what are the best implementation principles to be used;
-<li>what are the best heuristics and strategies, depending on application
-areas;
-<li>both successful and unsuccessful case studies;
-<li>missing features in modern theorem provers.
+<li>what is essential for substantial progress in theorem proving tools;</li>
+<li>what are the best implementation principles to be used;</li>
+<li>what are the best heuristics and strategies, depending on application areas;</li>
+<li>both successful and unsuccessful case studies;</li>
+<li>missing features in modern theorem provers.</li>
 </ul>
 
 <p>Organisers:
