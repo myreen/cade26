@@ -13,8 +13,8 @@ body {
 }
 
 article a:link { color: #06699c; }
-article a:visited { color: black; }
-article a:hover { color: blue; }
+article a:visited { color: #0000bb; }
+article a:hover { color: #0000bb; }
 
 header img {
   display: block;

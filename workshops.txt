@@ -1,0 +1,167 @@
+<h1>Workshops and Tutorials</h1>
+
+<p>The following workshops and tutorials will be organised alongside CADE-26:</p>
+<ul>
+<li><a href="workshops.html#arcade">ARCADE: Automated Reasoning: Challenges, Applications, Directions,
+Exemplary Achievements</h2>
+<li><a href="workshops.html#hcvs">HCVS: Horn Clauses for Verification and Synthesis</h2>
+<li><a href="workshops.html#pcr">PCR'17: Workshop on Parallel Constraint Reasoning</h2>
+<li><a href="workshops.html#thedu">ThEdu'17: Theorem Prover Components for Educational Software</h2>
+<li><a href="workshops.html#coprog">Tutorial: Certified Functional (Co)programming with Isabelle/HOL</h2>
+<li><a href="workshops.html#vampire">Vampire 2017: The 4th Vampire Workshop</h2>
+</ul>
+
+
+<br><a id="arcade"></a>
+<h2>ARCADE: Automated Reasoning: Challenges, Applications, Directions,
+Exemplary Achievements</h2>
+
+<p>The main goal of this workshop is to bring together key people from
+various sub communities (SAT/SMT, resolution, tableaux, interactive) to
+discuss the future of automated reasoning. The intention is to provide
+an opportunity to discuss broad issues facing the community. The title
+of the workshop is indicative of the kind of discussions we would like
+to encourage:</p>
+
+<ul>
+<li>Challenges: What are the next grand challenges for research on
+automated reasoning?
+<li>Applications: Is automated reasoning applicable in real-world
+(industrial) scenarios.
+<li>Directions: Based on the grand challenges and requirements from
+real-world applications, what are the research directions the community
+should promote?
+<li>Exemplary Achievements: What are the landmark achievements of
+automated reasoning whose influence reached far beyond the CADE
+community itself?
+</ul>
+
+<p>Organisers:
+<a href="http://www.cs.man.ac.uk/~regerg/research.html">Giles Reger</a>,
+<a href="https://www21.in.tum.de/~traytel/">Dmitriy Traytel</a></p>
+
+
+<br><a id="hcvs"></a>
+<h2>HCVS: Horn Clauses for Verification and Synthesis</h2>
+
+<p>Most Program Verification and Synthesis problems of interest can be
+modeled directly using Horn clauses and many recent advances in the
+Automated Deduction, Constraint/Logic Programming and Verification
+communities have centered around efficiently solving problems presented
+as Horn clauses. This workshop aims to bring together researchers
+working in the communities of Automated Deduction (e.g CADE),
+Constraint/Logic Programming (e.g., ICLP and CP) and Program
+Verification community (e.g., CAV, TACAS, and VMCAI) on the topic of
+Horn clause based analysis, verification and synthesis.</p>
+
+<p>Topics of interest include, but are not limited to the use of Horn
+clauses, constraints, and related formalisms in the following areas:</p>
+
+<ul>
+<li>Automated deduction
+<li>Analysis and verification of programs in various programming paradigms
+(e.g., imperative, object-oriented, functional, logic, higher-order,
+concurrent)
+<li>Program synthesis
+<li>Program testing
+<li>Program transformation
+<li>Constraint solving
+<li>Type systems
+<li>Case studies and tools
+<li>Challenging problems
+</ul>
+
+<p>Proposal by:
+<a href="http://www.sci.unich.it/~fioravan/">Fabio Fioravanti</a>,
+<a href="https://www.microsoft.com/en-us/research/people/nbjorner/">Nikolaj Bjorner</a>,
+<a href="https://www7.in.tum.de/~rybal/">Andrey Rybalchenko</a> and
+<a href="https://scholar.google.com/citations?user=vM39Bl8AAAAJ&hl=en">Valerio Senni</a></p>
+
+
+<br><a id="pcr"></a>
+<h2>PCR'17: Workshop on Parallel Constraint Reasoning</h2>
+
+<p>The workshop focuses on theory, implementation, and applications of
+parallel constraint reasoning. The phenomenal recent success in
+constraint reasoning has made approaches previously deemed impractical
+within the reach of both industrial and academic applications. Since
+some time the technology for producing CPUs has hit a physical barrier
+for obtaining sequential speed-up through laying out transistors on a
+chip. Since speed-up is no longer achievable through sequential
+hardware, there is an ongoing shift to wide-spread parallel computing.
+The workshop program will be organized as a collection of high-quality
+invited talks.</p>
+
+<p>Organisers:
+<a href="http://www.inf.usi.ch/postdoc/hyvarinen/">Antti Hyv&auml;rinen</a>,
+<a href="https://www.microsoft.com/en-us/research/people/cwinter/">Christoph M. Wintersteiger</a></p>
+
+
+<br><a id="thedu"></a>
+<h2>ThEdu'17: Theorem Prover Components for Educational Software</h2>
+
+<p>(Computer) Theorem Proving (TP) is becoming a paradigm as well as a
+technological base for a new generation of educational software in
+science, technology, engineering and mathematics. The workshop brings
+together experts in automated deduction with experts in education in
+order to further clarify the shape of the new software generation and to
+discuss existing systems. Topics of interest include:</p>
+
+<ul>
+<li>methods of automated deduction applied to checking students' input;
+<li>methods of automated deduction applied to prove post-conditions for
+particular problem solutions;
+<li>combinations of deduction and computation enabling systems to propose
+next steps;
+<li>automated provers specific for dynamic geometry systems;
+<li>proof and proving in mathematics education.
+</ul>
+
+<p>Organisers:
+<a href="https://www.mat.uc.pt/~pedro/">Pedro Quaresma</a> and
+<a href="http://www.ist.tugraz.at/neuper/">Walther Neuper</a></p>
+
+
+<br><a id="coprog"></a>
+<h2>Tutorial: Certified Functional (Co)programming with Isabelle/HOL</h2>
+
+<p>Over the past five years, the organizers have developed programming
+capabilities for finite and infinite (lazy) data structures in the
+Isabelle/HOL proof assistant, using the foundational approach
+characteristic of HOL provers. In contrast with the Isabelle tutorial at
+CADE-25, the focus will be on verified programming using the subset of
+Isabelle/HOL that corresponds to a typed functional programming
+language. The focus will be on mechanisms specific to Isabelle/HOL,
+notably: (1) reaching a balance between guaranteed
+termination/productivity and expressiveness; (2) mixing recursion with
+corecursion soundly; and (3) obtaining compositional proof methods that
+match the program definitions.</p>
+
+<p>Organisers:
+<a href="https://people.mpi-inf.mpg.de/~jblanche/">Jasmin Blanchette</a>,
+<a href="http://www4.in.tum.de/~popescua/">Andrei Popescu</a>,
+<a href="https://www21.in.tum.de/~traytel/">Dmitriy Traytel</a></p>
+
+
+<br><a id="vampire"></a>
+<h2>Vampire 2017: The 4th Vampire Workshop</h2>
+
+<p>The workshop aims at discussing recent developments in implementing,
+applying benchmarking and comparing first-order theorem provers and
+their combinations with other systems. Workshop participants will
+include both Vampire developers and users and provides a convenient
+opportunity for interesting discussions between tool developers and
+users. The workshop is going to to shed the light on on problems such as</p>
+
+<ul>
+<li>what is essential for substantial progress in theorem proving tools;
+<li>what are the best implementation principles to be used;
+<li>what are the best heuristics and strategies, depending on application
+areas;
+<li>both successful and unsuccessful case studies;
+<li>missing features in modern theorem provers.
+</ul>
+
+<p>Organisers:
+<a href="http://forsyte.at/people/kovacs/">Laura Kovacs</a> and
+<a href="http://voronkov.com/">Andrei Voronkov</a></p>

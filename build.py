@@ -30,6 +30,7 @@ CONTENT-HTML
 # a list, where each item is: filename, title, is-item-on-main-nav
 
 pages = [("index","Home",True),
+         ("workshops","Workshops &amp; Tutorials",True),
          ("org","Organization",True),
          ("venue","Venue &amp; Hotels",True)]
 
