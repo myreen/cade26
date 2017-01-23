@@ -6,7 +6,8 @@ CADE-26 will be held in Gothenburg. <i>More details to follow.</i>
 
 <h2>Hotels</h2>
 
-<p>Gothenburg has plenty of hotels to choose from, but be aware that hotels can get booked up quickly during the summer months.</p>
+<p>Gothenburg has plenty of hotels to choose from, but be aware that hotels can get booked up quickly during the summer months.
+</p>
 
 <h3>Main hotel</h3>
 
@@ -22,10 +23,13 @@ The CADE-26 conference has reserved rooms at the closest hotel to the conference
 
 <p><a href="https://www.nordicchoicehotels.com/quality/quality-hotel-11/">Quality Hotel 11</a>, located on Hisingen island within walking distance from the venue. Bus available. <br />
 Price from 846 SEK per night. <i>Note that this is not a fixed price!</i></p>
+<p>
 <a href="https://ligula.se/en/profilhotels/hotel-opera/">Grand Hotel Opera</a>, close to the central station and connections by bus or ferry to Lindholmen. <br />
 Price from 895 SEK per night. <i>Note that this is not a fixed price!</i></p>
+<p>
 <a href="https://www.elite.se/en/hotels/gothenburg/plaza-hotel/">Elite Plaza Hotel</a>, centrally located, close to connections by bus or ferry to Lindholmen. <br />
 Price from 1100 SEK per night. <i>Note that this is not a fixed price!</i></p>
+<p>
 <a href="https://gc.synxis.com/rez.aspx?Hotel=18358&Chain=5154&template=GCF_AVALON_V2&shell=GCF_AVALON_V3&locale=en-US&src=avalon&_ga=1.12866165.33197013.1479297044">Avalon Hotel G&ouml;teborg</a>, centrally located, ride with the <a href="http://www.goteborgelectricity.se/">ElectriCity-bus</a> to Lindholmen. <br />
 Price from 1395 SEK per night. <i>Note that this is not a fixed price!</i></p>
 <p><a href="http://www.hostelbookers.com/search/city/1530/arr/2017-08-06/ngt/5/ppl/1/">Hostels in Gothenburg</a> for low cost accomodation</p>
