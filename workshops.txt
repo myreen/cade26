@@ -2,13 +2,12 @@
 
 <p>The following workshops and tutorials will be organised alongside CADE-26:</p>
 <ul>
-<li><a href="workshops.html#arcade">ARCADE: Automated Reasoning: Challenges, Applications, Directions,
-Exemplary Achievements</h2>
-<li><a href="workshops.html#hcvs">HCVS: Horn Clauses for Verification and Synthesis</h2>
-<li><a href="workshops.html#pcr">PCR'17: Workshop on Parallel Constraint Reasoning</h2>
-<li><a href="workshops.html#thedu">ThEdu'17: Theorem Prover Components for Educational Software</h2>
-<li><a href="workshops.html#coprog">Tutorial: Certified Functional (Co)programming with Isabelle/HOL</h2>
-<li><a href="workshops.html#vampire">Vampire 2017: The 4th Vampire Workshop</h2>
+<li><a href="workshops.html#arcade">ARCADE: Automated Reasoning: Challenges, Applications, Directions, Exemplary Achievements</a>
+<li><a href="workshops.html#hcvs">HCVS: Horn Clauses for Verification and Synthesis</a>
+<li><a href="workshops.html#pcr">PCR'17: Workshop on Parallel Constraint Reasoning</a>
+<li><a href="workshops.html#thedu">ThEdu'17: Theorem Prover Components for Educational Software</a>
+<li><a href="workshops.html#coprog">Tutorial: Certified Functional (Co)programming with Isabelle/HOL</a>
+<li><a href="workshops.html#vampire">Vampire 2017: The 4th Vampire Workshop</a>
 </ul>
 
 
