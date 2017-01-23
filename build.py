@@ -9,12 +9,13 @@ content_tag = "CONTENT-HTML"
 format = """<!DOCTYPE html>
 <html lang="en">
 <head>
+<meta charset="UTF-8">
 <title>TITLE-STRING</title>
 <link rel="stylesheet" href="main.css">
 </head>
 <body>
 <header>
-<img src="top.png">
+<img src="top.png" alt="CADE-26">
 </header>
 <nav>
 MENU-HTML
