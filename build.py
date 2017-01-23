@@ -5,6 +5,7 @@
 title_tag = "TITLE-STRING"
 menu_tag = "MENU-HTML"
 content_tag = "CONTENT-HTML"
+filename_tag = "FILENAME-DOT-HTML"
 
 format = """<!DOCTYPE html>
 <html lang="en">
@@ -24,6 +25,7 @@ MENU-HTML
 CONTENT-HTML
 </div></article>
 <footer>
+<a style="color:grey;" href="https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww.cse.chalmers.se%2F~myreen%2Fcade-26%2FFILENAME-DOT-HTML">validate html</a>
 </footer>
 </body>
 </html>"""
@@ -51,5 +53,6 @@ for (filename,title,in_menu) in pages:
   html = format.replace(title_tag,"CADE-26: " + title)
   html = html.replace(menu_tag,get_menu(filename))
   html = html.replace(content_tag,content)
+  html = html.replace(filename_tag,filename+'.html')
   with open(filename+'.html', 'w') as html_file:
      html_file.write(html)
