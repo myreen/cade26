@@ -15,12 +15,14 @@
 <h2>ARCADE: Automated Reasoning: Challenges, Applications, Directions,
 Exemplary Achievements</h2>
 
-<p>The main goal of this workshop is to bring together key people from
-various sub communities (SAT/SMT, resolution, tableaux, interactive) to
-discuss the future of automated reasoning. The intention is to provide
-an opportunity to discuss broad issues facing the community. The title
-of the workshop is indicative of the kind of discussions we would like
-to encourage:</p>
+<p>The main goal of this workshop is to bring together key people
+from various subcommunities of automated reasoning&mdash;such as
+SAT/SMT, resolution, tableaux, theory-specific calculi (e.g. for
+description logic, arithmetic, set theory), interactive theorem
+proving&mdash;to discuss the present, past, and future of the field.
+The intention is to provide an opportunity to discuss broad
+issues facing the community. The title of the workshop is
+indicative of the kind of discussions we would like to encourage:</p>
 
 <ul>
 <li>Challenges: What are the next grand challenges for research on
@@ -34,6 +36,9 @@ should promote?</li>
 automated reasoning whose influence reached far beyond the CADE
 community itself?</li>
 </ul>
+
+<p><a href="http://www.cs.man.ac.uk/~regerg/arcade/">ARCADE
+workshop webpage</a></p>
 
 <p>Organisers:
 <a href="http://www.cs.man.ac.uk/~regerg/research.html">Giles Reger</a>,
