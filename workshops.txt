@@ -168,6 +168,9 @@ users. The workshop is going to to shed the light on on problems such as</p>
 <li>missing features in modern theorem provers.</li>
 </ul>
 
+<p><a href="http://easychair.org/smart-program/Vampire17/">Vampire
+2017 workshop webpage</a></p>
+
 <p>Organisers:
 <a href="http://forsyte.at/people/kovacs/">Laura Kovacs</a> and
 <a href="http://voronkov.com/">Andrei Voronkov</a></p>
