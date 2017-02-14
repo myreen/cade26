@@ -26,9 +26,9 @@ CONTENT-HTML
 </div></article>
 <footer style="text-align:center;">
 <div style="width: 100%; text-align:left; padding-left: 15px; padding-top: 10px; padding-bottom: 10px;">CADE-26 is grateful for sponsorship from:</div>
-<a href="https://www.microsoft.com/en-us/research/"><img src="msr.png" style="width: 200px; padding-left:30px;" alt="Microsoft Research"></img></a>
-<a href="http://international.goteborg.se/"><img src="gbg.png" style="width: 200px; padding-left:30px;" alt="Gothenburg City"></img></a>
-<a href="http://www.chalmers.se/en/areas-of-advance/ict/Pages/default.aspx"><img src="aoa.png" style="width: 280px; padding-left:30px;" alt="Information and Communication Technologies Chalmers Area of Advance"></img></a><br><br>
+<a href="https://www.microsoft.com/en-us/research/"><img src="msr.png" style="width: 200px; padding-left:30px;" alt="Microsoft Research"/></a>
+<a href="http://international.goteborg.se/"><img src="gbg.png" style="width: 200px; padding-left:30px;" alt="Gothenburg City"/></a>
+<a href="http://www.chalmers.se/en/areas-of-advance/ict/Pages/default.aspx"><img src="aoa.png" style="width: 280px; padding-left:30px;" alt="Information and Communication Technologies Chalmers Area of Advance"/></a><br><br>
 <a style="color:grey;" href="https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww.cse.chalmers.se%2F~myreen%2Fcade-26%2FFILENAME-DOT-HTML">validate</a>
 </footer>
 </body>
