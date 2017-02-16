@@ -10,6 +10,6 @@ The paper deadline for CADE-26 is approaching:
 <ul>
 <li><a href="cfp.html">call for papers</a>
 <li>abstract deadline: 11 Feb 2017
-<li>full paper deadline: 18 Feb 2017
+<li>full paper deadline: <s>18 Feb 2017</s> extended to Feb 25 (Saturday) anywhere in the world
 <li><a href="https://easychair.org/conferences/?conf=cade26">paper submission via EasyChair</a>
 </ul>

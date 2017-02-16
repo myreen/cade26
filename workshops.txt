@@ -9,6 +9,7 @@
 <li><a href="workshops.html#coprog">Tutorial: Certified Functional (Co)programming with Isabelle/HOL</a></li>
 <li><a href="workshops.html#vampire">Vampire 2017: The 4th Vampire Workshop</a></li>
 </ul>
+<p>The traditional <a href="http://www.cs.miami.edu/~tptp/CASC/26/">CADE ATP System Competition (CASC)</a> will also be held at CADE-26.</p>
 
 
 <br><a id="arcade"></a>
