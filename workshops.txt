@@ -76,11 +76,11 @@ concurrent)</li>
 <li>Challenging problems</li>
 </ul>
 
-<p>Proposal by:
-<a href="http://www.sci.unich.it/~fioravan/">Fabio Fioravanti</a>,
-<a href="https://www.microsoft.com/en-us/research/people/nbjorner/">Nikolaj Bjorner</a>,
-<a href="https://www7.in.tum.de/~rybal/">Andrey Rybalchenko</a> and
-<a href="https://scholar.google.com/citations?user=vM39Bl8AAAAJ&hl=en">Valerio Senni</a></p>
+<p><a href="http://software.imdea.org/Conferences/hcvs17/">HCVS'17 workshop webpage</a></p>
+
+<p>Organisers:
+<a href="https://es-static.fbk.eu/people/griggio/">Alberto Griggio</a>,
+<a href="https://cliplab.org/~herme/">Manuel Hermenegildo</a></p>
 
 
 <br><a id="pcr"></a>
