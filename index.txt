@@ -4,7 +4,7 @@ Call for papers: <a href="cfp.html">CFP</a><br>
 Submission via <a href="https://easychair.org/conferences/?conf=cade26">EasyChair</a><br>
 <br>
 List of accepted<br>
-<a href="workshops.html">workshops and tutorials</a>.
+<a href="workshops.html">workshops and tutorials</a>
 </div>
 
 <h1>CADE-26 in Gothenburg Sweden</h1>
@@ -47,4 +47,4 @@ surroundings, closeness to the sea and the stunning archipelago
 guarantee a whole new conference experience.</p>
 
 <iframe src="https://player.vimeo.com/video/109809157" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/109809157">Gothenburg &ndash; Destination video</a> from <a href="https://vimeo.com/goteborgcom">G&ouml;teborg / Gothenburg</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a target="_blank" href="https://vimeo.com/109809157">Gothenburg &ndash; Destination video</a> from <a target="_blank" href="https://vimeo.com/goteborgcom">G&ouml;teborg / Gothenburg</a> on <a target="_blank" href="https://vimeo.com">Vimeo</a>.</p>
