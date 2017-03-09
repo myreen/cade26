@@ -1,15 +1,19 @@
 <h1>Workshops and Tutorials</h1>
 
-<p>The following workshops and tutorials will be organised alongside CADE-26:</p>
+<p>The following workshops and tutorials will be organised alongside CADE-26 on 6 and 7 Aug 2017.</p>
+<p><b>6 Aug 2017:</b></p>
 <ul>
 <li><a href="workshops.html#arcade">ARCADE: Automated Reasoning: Challenges, Applications, Directions, Exemplary Achievements</a></li>
-<li><a href="workshops.html#hcvs">HCVS: Horn Clauses for Verification and Synthesis</a></li>
 <li><a href="workshops.html#pcr">PCR'17: Workshop on Parallel Constraint Reasoning</a></li>
 <li><a href="workshops.html#thedu">ThEdu'17: Theorem Prover Components for Educational Software</a></li>
+</ul>
+<p><b>7 Aug 2017:</b></p>
+<ul>
+<li><a href="workshops.html#hcvs">HCVS: Horn Clauses for Verification and Synthesis</a></li>
 <li><a href="workshops.html#coprog">Tutorial: Certified Functional (Co)programming with Isabelle/HOL</a></li>
 <li><a href="workshops.html#vampire">Vampire 2017: The 4th Vampire Workshop</a></li>
 </ul>
-<p>The traditional <a href="http://www.cs.miami.edu/~tptp/CASC/26/">CADE ATP System Competition (CASC)</a> will also be held at CADE-26.</p>
+<p>The traditional <a href="http://www.cs.miami.edu/~tptp/CASC/26/">CADE ATP System Competition (CASC)</a> will also be held at CADE-26. CASC will be held during the main CADE conference on 9 Aug 2017.</p>
 
 
 <br><a id="arcade"></a>
