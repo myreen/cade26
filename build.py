@@ -26,9 +26,10 @@ CONTENT-HTML
 </div></article>
 <footer style="text-align:center;">
 <div style="width: 100%; text-align:left; padding-left: 15px; padding-top: 10px; padding-bottom: 10px;">CADE-26 is grateful for sponsorship from:</div>
-<a href="https://www.microsoft.com/en-us/research/"><img src="msr.png" style="width: 200px; padding-left:30px;" alt="Microsoft Research"/></a>
-<a href="http://international.goteborg.se/"><img src="gbg.png" style="width: 200px; padding-left:30px;" alt="Gothenburg City"/></a>
-<a href="http://www.chalmers.se/en/areas-of-advance/ict/Pages/default.aspx"><img src="aoa.png" style="width: 280px; padding-left:30px;" alt="Information and Communication Technologies Chalmers Area of Advance"/></a><br>
+<a href="https://www.microsoft.com/en-us/research/"><img src="msr.png" style="width: 200px; padding-top:15px; padding-left:30px;" alt="Microsoft Research"/></a>
+<a href="http://international.goteborg.se/"><img src="gbg.png" style="padding-top:15px; width: 200px; padding-left:30px;" alt="Gothenburg City"/></a><br>
+<a href="http://www.chalmers.se/en/areas-of-advance/ict/Pages/default.aspx"><img src="aoa.png" style="width: 280px; padding-left:30px; padding-top:15px;" alt="Information and Communication Technologies Chalmers Area of Advance"/></a>
+<a href="http://www.springer.com/gp/"><img src="springer.gif" style="padding-left:30px; padding-top:15px;" alt="Springer"/></a><br>
 </footer>
 </body>
 </html>"""

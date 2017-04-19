@@ -1,5 +1,5 @@
 <div class="news">
-Paper deadline: 25 Feb 2017<br>
+Paper notification: 22 April 2017<br>
 Call for papers: <a href="cfp.html">CFP</a><br>
 Submission via <a href="https://easychair.org/conferences/?conf=cade26">EasyChair</a><br>
 <br>
