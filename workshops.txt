@@ -151,8 +151,12 @@ termination/productivity and expressiveness; (2) mixing recursion with
 corecursion soundly; and (3) obtaining compositional proof methods that
 match the program definitions.</p>
 
+<p><a href="http://matryoshka.gforge.inria.fr/cade26-tutorial/">Tutorial
+webpage</a></p>
+
 <p>Organisers:
 <a href="https://people.mpi-inf.mpg.de/~jblanche/">Jasmin Blanchette</a>,
+<a href="http://www.infsec.ethz.ch/people/andreloc.html">Andreas Lochbihler</a>,
 <a href="http://www4.in.tum.de/~popescua/">Andrei Popescu</a>,
 <a href="https://www21.in.tum.de/~traytel/">Dmitriy Traytel</a></p>
 
