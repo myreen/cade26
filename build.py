@@ -35,13 +35,14 @@ CONTENT-HTML
 
 validate_link = """ - <a style="color:grey;" href="https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww.cse.chalmers.se%2F~myreen%2Fcade-26%2FFILENAME-DOT-HTML">FILENAME-DOT-HTML</a>"""
 
-# a list, where each item is: filename, title, is-item-on-main-nav
+# a list, where each item is: filename, title, in_menu, is_local page
 
 pages = [("index","Home",True,True),
          ("workshops","Workshops &amp; Tutorials",True,True),
          ("http://www.cs.miami.edu/~tptp/CASC/26/","CASC",True,False),
          ("org","Organization",True,True),
-         ("venue","Venue &amp; Hotels",True,True)]
+         ("venue","Venue &amp; Hotels",True,True),
+         ("bledsoe","Woody Bledsoe Student Travel Awards at CADE 2017",False,True)]
 
 # generate html
 
