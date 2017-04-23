@@ -1,5 +1,5 @@
 <div class="news">
-Paper notification: 22 April 2017<br>
+List of <a href="accepted.html">accepted papers</a><br>
 Call for papers: <a href="cfp.html">CFP</a><br>
 Submission via <a href="https://easychair.org/conferences/?conf=cade26">EasyChair</a><br>
 <br>
