@@ -43,7 +43,9 @@ pages = [("index","Home",True,True),
          ("workshops","Workshops &amp; Tutorials",True,True),
          ("http://www.cs.miami.edu/~tptp/CASC/26/","CASC",True,False),
          ("org","Organization",True,True),
-         ("venue","Venue &amp; Hotels",True,True),
+         ("excursion","Excursion to Marstrand",True,True),
+         ("registration","Registration",True,True),
+         ("venue","Local Info, Venue &amp; Hotels",True,True),
          ("bledsoe","Woody Bledsoe Student Travel Awards at CADE 2017",False,True)]
 
 # generate html

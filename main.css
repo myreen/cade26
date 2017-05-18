@@ -68,6 +68,9 @@ nav ul {
     overflow: hidden;
     background-color: #333;
     padding-left: 10px;
+    padding-right: 30px;
+    padding-top: 6px;
+    padding-bottom: 6px;
 }
 
 nav li {
@@ -78,8 +81,7 @@ nav li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 12px 10px;
-    padding-bottom: 10px;
+    padding: 7px 10px 7px 10px;
     text-decoration: none;
 }
 

@@ -1,0 +1,59 @@
+<h1>Registration</h1>
+
+<p>The links to the registraion payment are below, but be sure to read
+the following text about VAT carefully before proceeding to the
+links.</p>
+
+<h2>VAT on fees</h2>
+
+<p>The registration fees are stated in SEK excluding 25% Swedish
+VAT. Please note, in accordance with Swedish Value Added Tax (VAT)
+requirements, any company or organization from a country outside
+Sweden with a registered VAT number (or equivalent tax registration
+number for companies outside of the EU) is NOT required to pay Swedish
+VAT for registration fee attending the IST conference in
+Sweden. Delegates from Sweden are required to pay VAT.</p>
+
+<p>Outside the conference fee, all delegates are required to pay VAT
+on social events (25%) and hotel (12%).</p>
+
+<h2>Important information</h2>
+
+<p>Please observe that the stated VAT number needs to be correct when
+registering for the conference. If the wrong VAT number is stated in
+the registration form a changing fee of SEK 250 will be charged and
+you will also be charged the VAT amount (25%). This mistake could also
+incur a penalty from the Swedish tax office for false information.</p>
+
+<p>For EU countries; if you are unsure of the VAT number, click here
+to check and validate your VAT number.</p>
+
+<p>Please have your VAT/tax registration number ready before you start
+the registra tion process.</p>
+
+<h2>Method of payment</h2>
+
+<p>All payments should be made in Swedish Krona (kr or SEK). All bank
+transfer charges in connection with transferring fees are to be paid
+by the delegate. No personal, company or Euro-cheques will be
+accepted.</p>
+
+<p>Payment can be made by the following methods:</p>
+<ul>
+<li>Credit card &mdash;
+Visa, MasterCard or American Express. Please note that all credit card
+payments are made through secure and encrypted online payment gateway,
+and will be listed as a transaction with Sweden Meetx AB on your
+credit card statement.
+<li style="padding-top:10px;">Invoice &mdash; Invoices are to be paid within 30 days.
+</ul>
+
+<h2>Payment links</h2>
+
+<p>Pick the link the is relevant for you:</p>
+
+<ul>
+<li><a href="">Sweden or other country without a valid VAT / tax number</a> &mdash; Please note: if you select this option 25% VAT will be added on the registration fee and paid to Meetx in full.
+<li style="padding-top:10px;"><a href="">Country within the EU (except Sweden)</a> with valid VAT / tax number
+<li style="padding-top:10px;"><a href="">Country outside of EU</a> with valid VAT / tax number
+</ul>
