@@ -4,6 +4,65 @@
 the following text about VAT carefully before proceeding to the
 links.</p>
 
+<h2>Registration deadlines</h2>
+
+<ul>
+<li>Early registration until 6 July 2017, end of the day local time (GMT+1)
+<li>Late registration from 7 July 2017 to 2 August 2017
+</ul>
+
+<h2>Registration Fees and Rates</h2>
+
+<p>Registration fees and rates below are <i>excluding VAT</i>, see explanations below.</p>
+<table>
+<tr>
+  <td class="tdname">CADE main conference:</td>
+  <td>Student (Early)</td>
+  <td class="tdprice">3000 SEK</td>
+</tr>
+<tr>
+  <td class="tdname"></td>
+  <td>Student (Late)</td>
+  <td class="tdprice">4000 SEK</td>
+</tr>
+<tr>
+  <td class="tdname"></td>
+  <td>Regular (Early)</td>
+  <td class="tdprice">4500 SEK</td>
+</tr>
+<tr>
+  <td class="tdname"></td>
+  <td>Regular (Late)</td>
+  <td class="tdprice">5500 SEK</td>
+</tr>
+<tr style="border-style: none; height: 30px"></tr>
+<tr>
+  <td class="tdname">Each CADE workshop day:</td>
+  <td>Student</td>
+  <td class="tdprice">300 SEK</td>
+</tr>
+<tr>
+  <td class="tdname"></td>
+  <td>Regular</td>
+  <td class="tdprice">500 SEK</td>
+</tr>
+<tr style="border-style: none; height: 30px"></tr>
+<tr>
+  <td class="tdname" colspan="2">Printed conference proceedings (Springer LNAI):</td>
+  <td class="tdprice">240 SEK</td>
+</tr>
+<tr style="border-style: none; height: 30px"></tr>
+<tr>
+  <td class="tdname" colspan="2">CASC system competition (by invitation):</td>
+  <td class="tdprice">600 SEK</td>
+</tr>
+<tr style="border-style: none; height: 30px"></tr>
+<tr>
+  <td class="tdname" colspan="2">ARCADE workshop dinner:</td>
+  <td class="tdprice">320 SEK</td>
+</tr>
+</table>
+
 <h2>VAT on fees</h2>
 
 <p>The registration fees are stated in SEK excluding 25% Swedish
