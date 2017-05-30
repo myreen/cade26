@@ -83,6 +83,8 @@
 <li>Satisfiability of Compositional Separation Logic with Tree Predicates and Data Constraints. Zhaowei Xu, Taolue Chen and Zhilin Wu
 </ul>
 
+<p><b>Lunch break</b></p>
+
 <p><b>Session 2: Applications and heuristics</b></p>
 <ul>
 <li>The binomial pricing model in finance: a formalization in Isabelle. Mnacho Echenim and Nicolas Peltier
