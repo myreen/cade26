@@ -2,7 +2,7 @@
 
 <h2>Gothenburg</h2>
 
-CADE-26 will be held in <a href="http://www.goteborg.com/en/">Gothenburg</a>.
+CADE-26 will be held at <a href="http://www.lindholmen.se/en">Lindholmen Science Park</a> in <a href="http://www.goteborg.com/en/">Gothenburg</a>.
 
 <blockquote>
 Gothenburg has spruced up its once rundown neighbourhoods and reinvented itself to show off the best of cutting-edge Swedish design, food and music. &mdash; The Guardian, Aug 2015
