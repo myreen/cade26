@@ -2,18 +2,19 @@
 
 <h2>Day 1: Tuesday 8 Aug 2017</h2>
 
-<p><b>Invited talk: Philippa Gardner</b></p>
-
-<p><b>Session 1:  Theory combination</b></p>
+<p>08:45 &nbsp<b>Welcome</b></p>
+<p>09:00 - 10:00  &nbsp<b>Invited talk: Philippa Gardner</b></p>
+<p>10:00 - 10:30  &nbsp<b>Coffee</b></p>
+<p>10:30 - 12:00  &nbsp<b>Session 1:  &nbspTheory combination</b></p>
 <ul>
 <li><b>Satisfiability Modulo Theories and Assignments.</b> Maria Paola Bonacina, Stéphane Graham-Lengrand and Natarajan Shankar
 <li><b>Notions of Knowledge in Combinations of Theories Sharing Constructors.</b> Serdar Erbatur, Andrew M. Marshall and Christophe Ringeissen
 <li><b>On the Combination of the Bernays-Schönfinkel-Ramsey Fragment with Simple Linear Integer Arithmetic.</b> Marco Voigt, Christoph Weidenbach and Matthias Horbach
 </ul>
 
-<p><b>Lunch break</b></p>
+<p>12:00 - 13:30  &nbsp<b>Lunch break</b></p>
 
-<p><b>Session 2: Satisfiability</b></p>
+<p>13:30 - 15:30  &nbsp<b>Session 2: Satisfiability</b></p>
 <ul>
 <li><b>Short Proofs without New Variables.</b> Marijn Heule, Benjamin Kiesl and Armin Biere
 <li><b>Satisfiability Modulo Transcendental Functions via Incremental Linearization.</b> Alessandro Cimatti, Alberto Griggio, Ahmed Irfan, Marco Roveri and Roberto Sebastiani
@@ -21,26 +22,30 @@
 <li><b>Relational Constraint Solving in SMT.</b> Baoluo Meng, Andrew Reynolds, Cesare Tinelli and Clark Barrett
 </ul>
 
-<p><b>Session 3: Decision procedures</b></p>
+<p>15:30 - 16:00  &nbsp<b>Coffee</b></p>
+
+<p>16:00 - 17:30  &nbsp<b>Session 3: Decision procedures</b></p>
 <ul>
 <li><b>Decision Procedures for Theories of Sets with Measures.</b> Markus Bender and Viorica Sofronie-Stokkermans
 <li><b>A Decision Procedure for Restricted Intensional Sets.</b> Maximiliano Cristia and Gianfranco Rossi
 <li><b>Decidability of the Monadic Shallow Linear First-Order Fragment with Straight Dismatching Constraints.</b> Andreas Teucke and Christoph Weidenbach
 </ul>
 
+<p>17:30 - 19:00  &nbsp<b>Reception & CASC dinner </b></p>
+
 <h2>Day 2: Wednesday 9 Aug 2017</h2>
 
-<p><b>Invited talk: Grant Passmore</b></p>
-<p><b>Session 1: Proof certification</b></p>
+<p>09:00 - 10:00  &nbsp<b>Invited talk: Grant Passmore</b></p>
+<p>10:00 - 10:30  &nbsp<b>Coffee</b></p>
+<p>10:30 - 12:00  &nbsp<b>Session 1: Proof certification</b></p>
 <ul>
 <li><b>Efficient Certified RAT Verification.</b> Luís Cruz-Filipe, Marijn Heule, Warren Hunt, Matt Kaufmann and Peter Schneider-Kamp
 <li><b>Efficient Verified (UN)SAT Certificate Checking.</b> Peter Lammich
 <li><b>Translating between implicit and explicit versions of proof.</b> Roberto Blanco, Zakaria Chihani and Dale Miller
 </ul>
+<p>12:00 - 13:30  &nbsp<b>Lunch break</b></p>
 
-<p><b>Lunch break</b></p>
-
-<p><b>Session 2: First order logic</b></p>
+<p>13:30 - 15:30  &nbsp<b>Session 2: First order logic</b></p>
 <ul>
 <li><b>A Unifying Principle for Clause Elimination in First-Order Logic.</b> Benjamin Kiesl and Martin Suda
 <li><b>Splitting Proofs for Interpolation.</b> Bernhard Gleiss, Laura Kovacs and Martin Suda
@@ -48,7 +53,9 @@
 <li><b>Theorem Proving for Metric Temporal Logic over the Naturals.</b> Ullrich Hustadt, Ana Ozaki and Clare Dixon
 </ul>
 
-<p><b>Session 3: System descriptions</b></p>
+<p>15:30 - 16:00  &nbsp<b>Coffee</b></p>
+
+<p>16:00 - 17:45  &nbsp<b>Session 3: System descriptions</b></p>
 <ul>
 <li><b>Scavenger 0.1: A Theorem Prover Based on Conflict Resolution.</b> Bruno Woltzenlogel Paleo, Daniyar Itegulov and John Slaney
 <li><b>WorkflowFM: A logic-based formal verification framework for process specification and composition.</b> Petros Papapanagiotou and Jacques Fleuriot
@@ -59,37 +66,39 @@
 
 <h2>Day 3: Thursday 10 Aug 2017</h2>
 
-<p><b>Invited talk: June Andronick</b></p>
+<p>09:00 - 10:00  &nbsp<b>Invited talk: June Andronick</b></p>
 
-<p><b>Session 1: Confluence and termination</b></p>
+<p>10:00 - 10:30  &nbsp<b>Coffee</b></p>
+<p>10:30 - 12:00  &nbsp<b>Session 1: Confluence and termination</b></p>
 <ul>
 <li><b>Certifying Confluence of Quasi-Decreasing Strongly Deterministic Conditional Term Rewrite Systems.</b> Christian Sternagel and Thomas Sternagel
 <li><b>A Transfinite Knuth-Bendix Order for Lambda-Free Higher-Order Terms.</b> Heiko Becker, Jasmin Christian Blanchette, Uwe Waldmann and Daniel Wand
 <li><b>Certifying Safety and Termination Proofs for Integer Transition Systems.</b> Marc Brockschmidt, Sebastiaan Joosten, René Thiemann and Akihisa Yamada
 </ul>
 
-<p><b>Lunch break</b></p>
+<p>12:00 - 13:30  &nbsp<b>Lunch break</b></p>
 
 <p><b>Business Meeting</b></p>
-
-<a href="excursion.html"><p><b>Excursion</b></p></a>
+<p>14:30 -  &nbsp <a href="excursion.html"><b>Excursion</b></p></a>
 
 <h2>Day 4: Friday 11 Aug 2017</h2>
 
-<p><b>Session 1: Program verification</b></p>
+<p>09:00 - 10:00  &nbsp<b>Award Ceremony</b></p>
+<p>10:00 - 10:30  &nbsp<b>Coffee</b></p>
+<p>10:30 - 12:00  &nbsp<b>Session 1: Program verification</b></p>
 <ul>
 <li><b>Biabduction (and Related Problems) in Array Separation Logic.</b> James Brotherston, Nikos Gorogiannis and Max Kanovich
 <li><b>Automatically Verifying Temporal Properties of Pointer Programs with Cyclic Proof.</b> Gadi Tellez and James Brotherston
 <li><b>Satisfiability of Compositional Separation Logic with Tree Predicates and Data Constraints.</b> Zhaowei Xu, Taolue Chen and Zhilin Wu
 </ul>
 
-<p><b>Lunch break</b></p>
+<p>12:00 - 13:30  &nbsp<b>Lunch break</b></p>
 
-<p><b>Session 2: Applications and heuristics</b></p>
+<p><p>13:30 - 15:30  &nbsp<b>Session 2: Applications and heuristics</b></p>
 <ul>
 <li><b>The binomial pricing model in finance: a formalization in Isabelle.</b> Mnacho Echenim and Nicolas Peltier
 <li><b>A Proof Strategy Language and Proof Script Generation for Isabelle/HOL.</b> Yutaka Nagashima and Ramana Kumar
 <li><b>Monte Carlo Tableau Proof Search.</b> Michael Färber, Cezary Kaliszyk and Josef Urban
 </ul>
-
-<p><b>Closing remarks</b></p>
+<p><p>13:30 - 15:30  &nbsp<b>TPTP tea party</b></p>
+<p><p>15:30 - &nbsp<b>Closing remarks</b></p>
