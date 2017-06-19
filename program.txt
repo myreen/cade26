@@ -1,4 +1,4 @@
-<h1>Preliminary Program</h1>
+<h1>Program</h1>
 
 <h2>Day 1: Tuesday 8 Aug 2017</h2>
 

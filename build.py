@@ -39,7 +39,7 @@ validate_link = """ - <a style="color:grey;" href="https://validator.w3.org/nu/?
 # a list, where each item is: filename, title, in_menu, is_local page
 
 pages = [("index","Home",True,True),
-         ("program","Preliminary Program",True,True),
+         ("program","Conference Program",True,True),
          ("accepted","Accepted Papers",False,True),
          ("workshops","Workshops &amp; Tutorials",True,True),
          ("http://www.cs.miami.edu/~tptp/CASC/26/","CASC",True,False),
