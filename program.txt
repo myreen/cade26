@@ -35,7 +35,7 @@
 
 <h2>Day 2: Wednesday 9 Aug 2017</h2>
 
-<p>09:00 - 10:00  &nbsp<b>Invited talk: Grant Passmore</b></p>
+<p>09:00 - 10:00  &nbsp<b>Invited EurAI talk: Grant Passmore</b></p>
 <p>10:00 - 10:30  &nbsp<b>Coffee</b></p>
 <p>10:30 - 12:00  &nbsp<b>Session 1: Proof certification</b></p>
 <ul>
