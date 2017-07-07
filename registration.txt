@@ -114,23 +114,23 @@ credit card statement.
 
 <ul>
 
-<li><a href="http://www.trippus.net/CADE26-Regular-Early-Swe">Regular registration</a> or
-    <a href="http://www.trippus.net/CADE26-Student-Early-Swe">student registration</a> for
+<li><a href="http://www.trippus.net/CADE26-Regular-Swe">Regular registration</a> or
+    <a href="http://www.trippus.net/CADE26-Student-Swe">student registration</a> for
     participants from Sweden.
 
 <li style="padding-top:10px;">
-    <a href="http://www.trippus.net/CADE26-Regular-Early-Swe">Regular registration</a> or
-    <a href="http://www.trippus.net/CADE26-Student-Early-Swe">student registration</a> for
+    <a href="http://www.trippus.net/CADE26-Regular-Swe">Regular registration</a> or
+    <a href="http://www.trippus.net/CADE26-Student-Swe">student registration</a> for
     participants from outside of Sweden who cannot provide a valid VAT / tax number.
 
 <li style="padding-top:10px;">
-    <a href="http://www.trippus.net/CADE26-Regular-Early-EU">Regular registration</a> or
-    <a href="http://www.trippus.net/CADE26-Student-Early-EU">student registration</a> for
+    <a href="http://www.trippus.net/CADE26-Regular-EU">Regular registration</a> or
+    <a href="http://www.trippus.net/CADE26-Student-EU">student registration</a> for
     participants from within the EU (except Sweden) who can provide a valid VAT / tax number.
 
 <li style="padding-top:10px;">
-    <a href="http://www.trippus.net/CADE26-Regular-Early-Export">Regular registration</a> or
-    <a href="http://www.trippus.net/CADE26-Student-Early-Export">student registration</a> for
+    <a href="http://www.trippus.net/CADE26-Regular-Export">Regular registration</a> or
+    <a href="http://www.trippus.net/CADE26-Student-Export">student registration</a> for
     participants from outside of the EU who can provide a valid VAT / tax number.
 
 </ul>
