@@ -1,5 +1,13 @@
 <h1>Excursion to Marstrand</h1>
 
+<h2>Excursion Schedule: Thursday 10 August</h2>
+<ul>
+<li>14:30 &nbsp Boat from Lindholmen</li>
+<li>17:00 &nbsp Arrival at Marstrand, followed by a guided tour ending in Carlsten fortress, welcome drinks there</li>
+<li>18:30 &nbsp 3-course dinner</li>
+<li>22:00 &nbsp Boat to the bus and bus to Gothenburg</li>
+</ul>
+
 <p> <img src="Archipelago.jpg" style="width: 50%; float:right; padding-left:15px;">
 We will have the conference excursion on Thusday 10 August. The
 excursion consists of a boat trip to, and a stay on, the picturesque
@@ -12,3 +20,4 @@ dramatic castle. Afterwards, we take short ferry to the main land,
 where buses take us back to Gothenburg.</p>
 
 <p><img src="Marstrand.jpg" style="width: 100%; padding-top:10px;"></p>
+
