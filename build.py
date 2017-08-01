@@ -13,6 +13,8 @@ format = """<!DOCTYPE html>
 <meta charset="UTF-8">
 <title>TITLE-STRING</title>
 <link rel="stylesheet" href="main.css">
+<meta http-equiv='cache-control' content='no-cache'>
+<meta http-equiv='expires' content='-1'>
 </head>
 <body>
 <header>
