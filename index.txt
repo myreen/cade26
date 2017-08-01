@@ -2,7 +2,7 @@
 <b></b> <a href="registration.html">registration</a> is now open
 <br>
 <br>
-<a href="https://link.springer.com/book/10.1007%2F978-3-319-63046-5">Proceedings online</a><br>
+<a target="_blank" href="https://link.springer.com/book/10.1007%2F978-3-319-63046-5">Proceedings online</a><br>
 List of <a href="accepted.html">accepted papers</a><br>
 Call for papers: <a href="cfp.html">CFP</a><br>
 Submission via <a href="https://easychair.org/conferences/?conf=cade26">EasyChair</a><br>
