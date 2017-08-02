@@ -1,6 +1,6 @@
 <h1>Workshops and Tutorials</h1>
 
-<p>The following workshops and tutorials will be organised alongside CADE-26 on 6 and 7 Aug 2017. Workshops and tutorials will take place in building <b>Jupiter</b>. You can find out detail directions and map <a href="venue.html">here</a>.</p>
+<p>The following workshops and tutorials will be organised alongside CADE-26 on 6 and 7 Aug 2017. Workshops and tutorials will take place in building <b>Jupiter</b>. The Jupiter building is the one numbered 2 on the <a href="venue.html">map</a> found under Local info.</p>
 <p><b>6 Aug 2017:</b></p>
 <ul>
 <li><a href="workshops.html#arcade">ARCADE: Automated Reasoning: Challenges, Applications, Directions, Exemplary Achievements</a></li>

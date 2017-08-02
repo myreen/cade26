@@ -1,6 +1,6 @@
 <h1>Program</h1>
 
-<p>All talks are held in Lindholmen Science Park, in the conference hall (map and directions <a href="venue.html">here</a>).</p>
+<p>All talks are held in Lindholmen Science Park, in the conference hall. The conference hall is in the building numbered 1 in the <a href="venue.html">map</a> found under Local info.</p>
 
 <h2>Day 1: Tuesday 8 Aug 2017</h2>
 
