@@ -119,8 +119,9 @@ low cost accomodation</p>
 
 <hr>
 
-<h2>Food options</h2>
-For workshop days (6th & 7th of August), here are some recommendations for lunch options: 
-<a href="./WorkshopFoodLindholmenMap.jpg"><img src="WorkshopFoodLindholmenMap.jpg" style="width: 100%; padding-top:10px;" ></a>
-<a href="./WorkshopFoodCityMap.jpg"><img src="WorkshopFoodCityMap.jpg" style="width: 100%; padding-top:10px;" ></a>
+<h2>Workshop Lunch Options</h2>
+For workshop days (6th & 7th of August), here are some recommendations for lunch options:
+(Click to see full map)
+<a href="./LunchMap.jpg"><img src="LunchMap.jpg" style="width: 100%; padding-top:10px;" ></a>
+<a href="./LunchMap2.jpg"><img src="LunchMap2.jpg" style="width: 100%; padding-top:10px;" ></a>
 
